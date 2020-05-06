@@ -1,7 +1,7 @@
 const passcodes = {
-	try1 : 'FUOS',
-	try2 : '2841',
-	try3 : 'BARE'
+	try1 : 'NBXG',
+	try2 : '2916',
+	try3 : '8049'
 };
 
 let tries = {};
